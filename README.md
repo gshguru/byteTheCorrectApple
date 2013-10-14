@@ -31,7 +31,7 @@ fruit
 
 **My Approach:**
 
-I have used simple text processing utilities provided by scikit learn to get >90% accuracy on hidden data set. 
+I used simple text processing utilities provided by scikit learn to get >90% accuracy on hidden data set. 
 Model used was Bernoulli’s Naïve Bayes.
 
 Intelligent data preprocessing can actually pull accuracy towards 100%. Probably the model is failing in case of multiple occurrences of word apple (like eating apple at Apple headquarters).
